@@ -28,7 +28,6 @@ IP-CIDR,114.114.115.115/32,no-resolve
 DOMAIN-SUFFIX,canyouseeme.org
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,appstorrent.ru
-DOMAIN-SUFFIX,moomoo.com
 ;DOMAIN-SUFFIX,qhres.com
 ;DOMAIN-SUFFIX,qhstatic.com
 ;DOMAIN-SUFFIX,qhupdate.com
