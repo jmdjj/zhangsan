@@ -5,6 +5,11 @@
 DOMAIN-SUFFIX,moomoo.com
 DOMAIN-SUFFIX,xmrth.com
 DOMAIN-SUFFIX,mantouyun.com
+DOMAIN-SUFFIX,canyouseeme.org
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,huzhaoning.com
+DOMAIN-SUFFIX,twoniao.top
+DOMAIN-SUFFIX,appstorrent.ru
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,moomoo
@@ -12,6 +17,7 @@ DOMAIN-KEYWORD,moomoo
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
+IP-CIDR,192.168.9.70/32,no-resolve
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
