@@ -12,6 +12,8 @@ DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,huzhaoning.com
 DOMAIN-SUFFIX,twoniao.top
 DOMAIN-SUFFIX,appstorrent.ru
+DOMAIN-SUFFIX,ptchdbits.co
+DOMAIN-SUFFIX,kp.m-team.cc
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
