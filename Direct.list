@@ -5,6 +5,8 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
+
+# 我的小众网站
 DOMAIN-SUFFIX,canyouseeme.org
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,huzhaoning.com
@@ -16,6 +18,7 @@ DOMAIN-KEYWORD,baidu
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
+IP-CIDR,192.168.9.70/32,no-resolve
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
@@ -29,7 +32,6 @@ IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
-# 我的小众网站
 
 # 360
 DOMAIN-SUFFIX,360.com
