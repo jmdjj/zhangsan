@@ -18,6 +18,9 @@ DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,api.m-team.io
 DOMAIN-SUFFIX,api2.m-team.cc
 DOMAIN-SUFFIX,tra1.m-team.cc
+DOMAIN-SUFFIX,static.m-team.cc
+DOMAIN-SUFFIX,img.m-team.cc
+DOMAIN-SUFFIX,tp.m-team.cc
 DOMAIN-SUFFIX,chdbits.xyz
 DOMAIN-SUFFIX,open.cd
 
