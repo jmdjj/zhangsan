@@ -31,6 +31,9 @@ DOMAIN-KEYWORD,baidu
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
 
+# 新增直连端口
+PORT,49940
+
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
