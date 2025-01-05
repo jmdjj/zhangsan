@@ -32,7 +32,7 @@ DOMAIN-KEYWORD,baidu
 IP-CIDR,219.146.1.66/32,no-resolve
 
 # 新增直连端口
-PORT,49940
+DST-PORT,49940,DIRECT
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
