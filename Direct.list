@@ -8,24 +8,6 @@ DOMAIN-SUFFIX,hao123.com
 
 # 我的小众网站
 DOMAIN-SUFFIX,canyouseeme.org
-DOMAIN-SUFFIX,speedtest.net
-DOMAIN-SUFFIX,speedtest1.macau.ctm.net
-DOMAIN-SUFFIX,speedtest2.macau.ctm.net
-DOMAIN-SUFFIX,speedtest3.macau.ctm.net
-DOMAIN-SUFFIX,speedtest1.chinatelecom.com.mo
-DOMAIN-SUFFIX,speedtest2.chinatelecom.com.mo
-DOMAIN-SUFFIX,speedtest1.chinatelecom.com.mo
-DOMAIN-SUFFIX,speedtest1.mtel.mo
-DOMAIN-SUFFIX,speedtest2.mtel.mo
-DOMAIN-SUFFIX,speedtest3.mtel.mo
-DOMAIN-SUFFIX,speedtest1.macau.ctm.net
-DOMAIN-SUFFIX,speedtest2.macau.ctm.net
-DOMAIN-SUFFIX,speedtest3.macau.ctm.net
-DOMAIN-SUFFIX,speedtest1.spntelecom.vn
-DOMAIN-SUFFIX,speedtest2.spntelecom.vn
-DOMAIN-SUFFIX,speedtest3.spntelecom.vn
-DOMAIN-SUFFIX,tnn-speedtest.viettelidc.com.vn
-DOMAIN-SUFFIX,hpg-speedtest.viettelidc.com.vn
 DOMAIN-SUFFIX,huzhaoning.com
 DOMAIN-SUFFIX,twoniao.top
 DOMAIN-SUFFIX,appstorrent.ru
@@ -43,6 +25,7 @@ DOMAIN-SUFFIX,open.cd
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,speedtest
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
