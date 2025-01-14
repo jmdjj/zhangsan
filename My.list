@@ -1,0 +1,27 @@
+# 我的小众网站
+DOMAIN-SUFFIX,canyouseeme.org
+DOMAIN-SUFFIX,huzhaoning.com
+DOMAIN-SUFFIX,twoniao.top
+DOMAIN-SUFFIX,appstorrent.ru
+DOMAIN-SUFFIX,ptchdbits.co
+DOMAIN-SUFFIX,kp.m-team.cc
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,api.m-team.io
+DOMAIN-SUFFIX,api2.m-team.cc
+DOMAIN-SUFFIX,tra1.m-team.cc
+DOMAIN-SUFFIX,static.m-team.cc
+DOMAIN-SUFFIX,img.m-team.cc
+DOMAIN-SUFFIX,tp.m-team.cc
+DOMAIN-SUFFIX,chdbits.xyz
+DOMAIN-SUFFIX,open.cd
+DOMAIN-SUFFIX,whatismyipaddress.com
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,speedtest
+
+# IP段匹配
+IP-CIDR,219.146.1.66/32,no-resolve
+
+# 新增直连端口
+DST-PORT,49940,DIRECT
