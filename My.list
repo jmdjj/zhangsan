@@ -21,7 +21,7 @@ DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,speedtest
 
 # IP段匹配
-IP-CIDR,219.146.1.66/32,no-resolve
+# IP-CIDR,219.146.1.66/32,no-resolve
 
 # 新增直连端口
-DST-PORT,49940,DIRECT
+# DST-PORT,49940,DIRECT
