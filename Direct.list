@@ -4,7 +4,13 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
-DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,msftcomecttest.com
+DOMAIN-SUFFIX,dns.msftncsi.com
+DOMAIN-SUFFIX,ipv6.msftconnecttest.com
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,mirror
+DOMAIN-KEYWORD,ghp
 
 # 我的小众网站
 DOMAIN-SUFFIX,canyouseeme.org
@@ -29,25 +35,10 @@ DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,speedtest
 
 # IP段匹配
-IP-CIDR,219.146.1.66/32,no-resolve
+# IP-CIDR,219.146.1.66/32,no-resolve
 
 # 新增直连端口
 DST-PORT,49940,DIRECT
-
-# 国内DNS
-DOMAIN-SUFFIX,dns.alidns.com
-DOMAIN-SUFFIX,doh.pub
-IP-CIDR,219.146.1.66/32,no-resolve
-IP-CIDR,219.147.1.66/32,no-resolve
-IP-CIDR,119.29.29.29/32,no-resolve
-IP-CIDR,223.5.5.5/32,no-resolve
-IP-CIDR,223.6.6.6/32,no-resolve
-IP-CIDR,180.76.76.76/32,no-resolve
-IP-CIDR,114.114.114.114/32,no-resolve
-IP-CIDR,114.114.115.115/32,no-resolve
-IP-CIDR,202.103.225.68/32,no-resolve
-IP-CIDR,202.103.224.68/32,no-resolve
-
 
 # 360
 DOMAIN-SUFFIX,360.com
@@ -332,6 +323,9 @@ DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,weiyun.com
+DOMAIN-SUFFIX,servicewechat.com
+DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,qpic.cn
 
 # Vip 唯品会
 DOMAIN-SUFFIX,appsimg.com
