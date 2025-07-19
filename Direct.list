@@ -302,8 +302,8 @@ DOMAIN-SUFFIX,canyouseeme.org
 DOMAIN-SUFFIX,huzhaoning.com
 DOMAIN-SUFFIX,twoniao.top
 DOMAIN-SUFFIX,appstorrent.ru
-DOMAIN-SUFFIX,ptchdbits.co
-DOMAIN-SUFFIX,kp.m-team.cc
+#DOMAIN-SUFFIX,ptchdbits.co
+#DOMAIN-SUFFIX,kp.m-team.cc
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,api.m-team.io
 DOMAIN-SUFFIX,api2.m-team.cc
